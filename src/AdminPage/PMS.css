@@ -1,0 +1,92 @@
+/* Admin Login page */
+ *{
+  background-color: #E9EBEC;
+
+} 
+
+
+.setBgHome2{
+  background-color: white;
+
+}
+
+.image{
+  display: block;
+  height: auto;
+
+}
+
+.setCardW{
+  border: 2px solid rgb(248, 245, 245);
+  background-color: white;
+  justify-content: center;
+  width:39%;
+  margin-left: 20%;
+  height:20%;
+
+}
+.setShadow{
+  box-shadow: 1px 1px 2px 1px; 
+
+}
+
+.card-body{
+  background-color: white;
+} 
+
+.setbtnColor{
+  color: black;
+}
+.setbtnBg{
+  background-color:#64B5F6;
+  border-radius: 10px;
+  width: 10rem;
+  height: 3rem;
+  border: 2px solid white;
+
+      } 
+
+.body_design{
+         background-color: #E9EBEC;
+              }
+
+ .des{
+       background-color: white;
+           }
+
+/* Table  page */
+.table_design{
+  width:70%;
+}
+          .Table_title{
+           margin-top: 8%;
+           margin-left: 4%;
+                 }
+         
+          .table{
+           margin-left:1%; 
+             }
+         .td{
+           border:2px solid blue;
+           padding:1%;
+           text-align:center;
+           width:1%;
+            }
+            .th{
+              margin-left:20px;
+              width:2%;  
+              text-align:center;
+              border:2px solid blue;
+            }
+           
+          .hide{
+            visibility: hidden ;
+           }
+           .pop_design{
+            margin-top:250px;
+           }
+           .btn_design{
+            background-color: #64B5F6;
+           }
+       
+           
